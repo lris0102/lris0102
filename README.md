@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🌱 Always on a quest for knowledge, whether it’s the latest tech innovations or the secret recipe to the world’s best lasagna.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a foodie who loves to explore new cuisines in between debugging code.
 
 Feel free to reach out or follow my work here on GitHub!
