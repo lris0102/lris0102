@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Personal Info
 - 📫 How to reach me: **galaxie-h@outlook.com**
 - 🔗 GitHub: [lris0102](https://github.com/lris0102)
+- 🔗 Blog: [lris0102.github.io](https://lris0102.github.io/)
 
 ### Professional Skills
 - 💻 Proficient in **Java, Go, Docker, Git, Kubernetes, Shell**
